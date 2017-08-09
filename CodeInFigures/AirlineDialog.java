@@ -1,3 +1,5 @@
+package CodeInFigures;
+
 import javax.swing.JOptionPane;
 public class AirlineDialog
 {
